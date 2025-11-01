@@ -1,10 +1,11 @@
 {
   "protocol": "CRA Kernel v2.1",
   "license": "UDL_v1.0",
-  "txid": "INSERT_TXID_HERE",
-  "commit_hash": "INSERT_GIT_COMMIT_HASH",
+  "txid": "DNbJM326s3M1tVxswPACgbppIBXA6RiqaHsSV45P6OA",
+  "commit_hash": "INSERT_COMMIT_HASH_HERE",
   "author": "Cory Miller",
   "enforcement_vector": "SCP",
   "payment_vector": "INSERT_ROUTING_DETAILS",
-  "timestamp": "INSERT_ISO_TIMESTAMP"
+  "timestamp": "2025-10-31T22:34:00Z"
 }
+
