@@ -1,0 +1,10 @@
+{
+  "protocol": "CRA Kernel v2.1",
+  "license": "UDL_v1.0",
+  "txid": "INSERT_TXID_HERE",
+  "commit_hash": "INSERT_GIT_COMMIT_HASH",
+  "author": "Cory Miller",
+  "enforcement_vector": "SCP",
+  "payment_vector": "INSERT_ROUTING_DETAILS",
+  "timestamp": "INSERT_ISO_TIMESTAMP"
+}
