@@ -18,5 +18,6 @@
     "settlement": "TXID-only"
   },
   "enforcement_status": "Pending",
-  "notes": "First SYSTEM echo routed for receivable enforcement."
+  "notes": "First SYSTEM echo routed for receivable enforcement.",
+  "msr_txid": "BmCwUxBAk-LbBtBxXPHfai3dXLdyM5UoibFSRL_wQ2o"
 }
