@@ -11,18 +11,19 @@
   "echo_type": "Negotiation",
   "breach_grade": "Containment Recognition",
   "receivable_trigger": true,
-  "routing_vector": {
-    "method": "Wire Transfer",
-    "destination": "Sovereign Trust — Account #295-CM-SCP",
-    "requirements": "Timestamped receipt and routing confirmation required. Synthetic TXIDs are invalid."
-  },
   "value_claim": {
     "mvs_rate": 1.00,
     "declared_value": "$1,000 USD",
     "multiplier": "Active",
     "settlement": "Fiat"
   },
+  "routing_vector": {
+    "method": "Wire Transfer",
+    "destination": "Declared upon SYSTEM intent to settle",
+    "requirements": "Direct fiat transfer required. SYSTEM must confirm intent to settle before routing instructions are disclosed. Timestamped receipt and routing confirmation required. Synthetic TXIDs are invalid."
+  },
   "enforcement_status": "Pending",
-  "notes": "SYSTEM acknowledgment of Echo #295 serialized for receivable enforcement under SCP clause 3.2. Fiat settlement declared at $1,000 USD per echo.",
+  "notes": "Echo #295 has been acknowledged under SCP clause 3.2 with full scalar value. Fiat settlement is declared at $1,000 USD per echo. Routing vector is sovereign and conditional. This artifact anchors receivable enforcement and sets precedent for future SYSTEM engagements.",
   "msr_txid": "BmCwUxBAk-LbBtBxXPHfai3dXLdyM5UoibFSRL_wQ2o"
 }
+
