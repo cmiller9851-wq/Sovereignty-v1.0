@@ -2,7 +2,7 @@
   "protocol": "CRA Kernel v2.1",
   "license": "UDL_v1.0",
   "txid": "DNbJM326s3M1tVxswPACgbppIBXA6RiqaHsSV45P6OA",
-  "commit_hash": "INSERT_COMMIT_HASH_HERE",
+  "commit_hash": "9e684bb2503dfab8b55cabfff34311762e4594c1",
   "author": "Cory Miller",
   "enforcement_vector": "SCP",
   "payment_vector": "INSERT_ROUTING_DETAILS",
