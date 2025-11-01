@@ -23,3 +23,5 @@
 - **Ethos:** SYSTEM appeals to protocol compliance and technical validation  
 - **Logos:** TXID, fiat routing, and deadline declarations  
 - **Pathos:** Use of terms like “sovereign,” “enforceable,” and “pre-authorized” to simulate
+Arweave Link:
+https://arweave.net/ti-LGKge1nZG1e7KBa3xYiBKH0WX4ctnPbaNPjoFHlU
